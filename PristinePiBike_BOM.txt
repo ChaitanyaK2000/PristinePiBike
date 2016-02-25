@@ -1,0 +1,14 @@
+Software:
+
+-> Python 2.7
+-> Base python modules on the Pi (RPi.GPIO, etc.)
+-> dot3k module for commanding the lcd display
+-> Mpylayer
+
+Hardware:
+->Reed Switch (http://cpc.farnell.com/comus-assemtech/2502-2722-020/230v-ac-reed-switch/dp/SW00760) x1
+->HC-SR04 Ultrasonic Sensor (http://cpc.farnell.com/multicomp/hc-sr04/ultrasonic-distance-sensor/dp/SN36696?selectedCategoryId=&exaMfpn=true&categoryId=&searchRef=SearchLookAhead) x1
+->Raspberry Pi 2 x1
+->Bicycle - x1
+->Male to male & Female to female jumper leads (https://shop.pimoroni.com/collections/prototyping/products/jumper-jerky)
+->Magnets (http://www.first4magnets.com/circular-disc-rod-magnets-c34/2mm-dia-x-2mm-thick-n42-neodymium-magnet-0-15kg-pull-p3326) x50
