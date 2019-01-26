@@ -1,2 +1,2 @@
 # PristinePiBike
-The code for the school Pi Bike Project
+Digitizing the bicycle with the Raspberry Pi
